@@ -7,6 +7,7 @@ describe 'Book' do
 
   describe 'properties' do
     let(:book) { Book.new("And Then There Were None") }
+  end
 
     it 'has a title' do
       expect(book.title).to eq("And Then There Were None")
