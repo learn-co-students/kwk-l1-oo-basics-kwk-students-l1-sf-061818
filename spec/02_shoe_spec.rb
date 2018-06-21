@@ -12,6 +12,7 @@ describe 'Shoe' do
       # When must the brand be assigned for this to work?
       expect(shoe.brand).to eq("Nike")
     end
+    
 
     it 'has a color' do
       shoe.color = "red"
