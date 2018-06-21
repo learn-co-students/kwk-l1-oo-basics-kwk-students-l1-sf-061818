@@ -1,5 +1,5 @@
 describe 'Book' do
-  describe '::new' do
+  describe '::new' do 
     it 'gets initialized with a title' do
       expect{Book.new("And Then There Were None")}.to_not raise_error
     end
