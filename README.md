@@ -1,16 +1,3 @@
-# Object Orientation Basics
-
-## Description
-
-This lab will walk you, step by step, through the basics of programming a simple
-`Book` class. Once you've completed the tutorial, you should know enough to
-complete a similar object oriented problem on your own.
-
-## Instructions
-
-1. Read through the tutorial, following along as you go.
-2. Once you've finished, make the tests in `spec/01_book_spec.rb` pass. Run only those tests by typing `learn spec/01_book_spec.rb` on your command line.
-
 ## Tutorial
 
 Object oriented programming, or OOP, is an extremely useful programming paradigm
@@ -666,5 +653,3 @@ Open `spec/02_shoe_spec.rb` and start making the tests pass. Write your code in 
 To run the specs, type `learn spec/02_shoe_spec.rb` on your command line.
 
 Happy coding!
-
-<p data-visibility='hidden'>KWK-L1 Object Orientation Basics</p>
